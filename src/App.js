@@ -13,7 +13,6 @@ function App() {
            <MenuItem value="worldwide">Worldwide</MenuItem>
            <MenuItem value="worldwide">Worldwide</MenuItem>
            <MenuItem value="worldwide">Worldwide</MenuItem>
-           <MenuItem value="worldwide">Worldwide</MenuItem>
         </Select>
 
       </FormControl>
